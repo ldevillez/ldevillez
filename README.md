@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- ⚡ Active maintainer of SVG2TikZ
 - 🔭 I’m currently working on a custom ergonomic keyboard
 - 🌱 I'm pursuing a Ph.D thesis on the design of a hip prosthesis for disarticulated amputees.
 - 📫 How to reach me: Mail (louis.devillez@gmail.com)
